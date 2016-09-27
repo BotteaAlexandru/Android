@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="first_activity_text">Welcome to MobileAcademy Android Essentials classes!</string>
+    <string name="second_activity_text">Whoa. You just made your first Android app.</string>
+</resources>
